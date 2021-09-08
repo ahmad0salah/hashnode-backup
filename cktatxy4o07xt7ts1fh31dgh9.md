@@ -19,6 +19,9 @@ Although git merge is a simple safe command, it can clutter the history of your 
 As an alternative to merging, you can rebase the feature branch onto the main branch.
 rebase puts your feature branch in front of the main branch.
 
+
+![rebase.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1631065012779/jMZJrjEel.png)
+
 **DANGER!**
 
 git rebase rewrites the project history by creating brand new commits for each commit in the feature branch.
